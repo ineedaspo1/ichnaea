@@ -66,7 +66,7 @@ gevent==22.10.2
 # Code: https://github.com/benoitc/gunicorn
 # Changes: https://docs.gunicorn.org/en/stable/news.html
 # Docs: https://docs.gunicorn.org/en/stable/
-gunicorn==20.1.0
+gunicorn==23.0.0
 
 # Generates metrics with multiple backend support
 # Code: https://github.com/willkg/markus
@@ -96,13 +96,13 @@ numpy==1.23.4
 # Code: https://github.com/PyMySQL/PyMySQL
 # Changes: https://github.com/PyMySQL/PyMySQL/blob/master/CHANGELOG.md
 # Docs: https://pymysql.readthedocs.io/en/latest/
-PyMySQL==1.0.2
+PyMySQL==1.1.1
 
 # A Python web framework
 # Code: https://github.com/Pylons/pyramid
 # Changes: https://docs.pylonsproject.org/projects/pyramid/en/1.10-branch/whatsnew-1.10.html#
 # Docs: https://docs.pylonsproject.org/projects/pyramid/en/1.10-branch/
-pyramid==2.0
+pyramid==2.0.2
 
 # Pyramid bindings for Chameleon, an HTML/XML template engine
 # Code: https://github.com/Pylons/pyramid_chameleon
@@ -133,7 +133,7 @@ cachetools
 # Code: https://github.com/psf/requests
 # Changes: https://github.com/psf/requests/blob/master/HISTORY.md
 # Docs: https://requests.readthedocs.io/en/master/
-requests==2.28.1
+requests==2.32.2
 
 # R-Tree spatial index for Python GIS, requires libspatialindex
 # Code: https://github.com/Toblerity/Rtree
@@ -181,7 +181,7 @@ structlog==22.1.0
 # Code: https://github.com/urllib3/urllib3
 # Changes: https://github.com/urllib3/urllib3/blob/master/CHANGES.rst
 # Docs: https://urllib3.readthedocs.io/en/latest/
-urllib3==1.26.12
+urllib3==1.26.19
 
 #
 # Requirements for developement
@@ -197,7 +197,7 @@ beautifulsoup4
 # Code: https://github.com/psf/black
 # Changes: https://github.com/psf/black/blob/master/CHANGES.md
 # Docs: https://black.readthedocs.io/en/stable/
-black==22.10.0
+black==24.3.0
 
 # Cross-platform colored terminal text, used for structlog output
 # Code: https://github.com/tartley/colorama
